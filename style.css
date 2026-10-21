@@ -85,6 +85,11 @@ footer {
     color: rgb(218, 200, 200);
 }
 
+.qr_image {
+    width: 400px;
+    height: 400px;
+}
+
 /* Chapter titles */
 .chapter_title {
     color: rgb(218, 200, 200);
