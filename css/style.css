@@ -120,6 +120,35 @@ footer {
     color: rgb(218, 200, 200);
 }
 
+.phone_image_add {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 20px;
+    left: 100;
+    right: 0;
+    background-color: rgb(26, 41, 36);
+}
+
+.phone_image_add h2 {
+    color: rgb(218, 200, 200);
+}
+
+.phone_image_add a {
+    margin: 5px;
+    color: rgb(185, 164, 164);
+}
+.phone_image_add a:hover {
+    color: rgb(218, 200, 200);
+}
+
+.swish_qr_code {
+    width: 250px;
+    height: 400px;
+}
+
 /* Book cover */
 .div_bookcover {
     top: 320px;
